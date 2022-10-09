@@ -100,7 +100,7 @@ public class Basics {
          * Current count: 0
          */
         for (int j = 10; j >= 0; j--) {
-            System.out.println("Current Count: " + j);
+            System.out.println("Current count: " + j);
         }
 
     }
